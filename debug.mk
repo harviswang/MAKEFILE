@@ -1,0 +1,2 @@
+all:
+	$(error "stop here")
